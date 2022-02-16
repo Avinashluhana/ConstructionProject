@@ -1,0 +1,9 @@
+.payment-section {
+  background-image: url("img/header-bg.jpg");
+  width: 100%;
+  height: 100vh;
+  z-index: auto;
+}
+.main-logo {
+  width: 100px;
+}
